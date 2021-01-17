@@ -1,0 +1,48 @@
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.exe
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.deps.json
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.json
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\Workers Resources Soviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.exe
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.deps.json
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.json
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\WorkersResourcesSoviet RepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.exe
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.deps.json
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.json
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\bin\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\ref\Workers Resources Soviet RepublicModsInstaller.dll
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.pdb
+C:\Users\Vlad\Desktop\WorkersResourcesSovietRepublicModsInstaller\obj\Debug\net5.0\Workers Resources Soviet RepublicModsInstaller.genruntimeconfig.cache
